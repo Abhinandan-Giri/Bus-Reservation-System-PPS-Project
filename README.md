@@ -15,20 +15,20 @@ The beneficiaries of this system is the bus company.
 
 ## LOGIN FORM
 When you start the project from any compiler or by double-clicking the executable.exe file, you’ll see the screen shown below is Login screen window. 
-![input-data.png](https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png)
+![login.jpg]([https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png](https://github.com/Abhinandan-Giri/Bus-Reservation-System-PPS-Project/blob/641eaa2e1b9ac736b2a44dedf390b3f90330fedd/images/login.jpg))
 
 ## MAIN MENU
 After you login it will directly you to the main menu of bus reservation its composed of view bus list, book tickets, cancel booking, bus status board and exit.
-![input-data.png](https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png)
+![mainmenu.png]([https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png](https://github.com/Abhinandan-Giri/Bus-Reservation-System-PPS-Project/blob/641eaa2e1b9ac736b2a44dedf390b3f90330fedd/images/mainmenu.jpg))
 
 ## VIEW BUS LIST
 If you press number 1 it means you will view bus list. In the image below is the example of view bus list.
-![input-data.png](https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png)
+![buslist.png]([https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png](https://github.com/Abhinandan-Giri/Bus-Reservation-System-PPS-Project/blob/641eaa2e1b9ac736b2a44dedf390b3f90330fedd/images/buslist.jpg))
 
 ## BOOK TICKETS
 In the image below, which is for the booking tickets of the bus.
-![input-data.png](https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png)
+![bookticket.png]([https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png](https://github.com/Abhinandan-Giri/Bus-Reservation-System-PPS-Project/blob/641eaa2e1b9ac736b2a44dedf390b3f90330fedd/images/bookticket.jpg))
 
 ## CANCEL BOOKING
 In the image below, which is for the cancel booking of the bus. 
-![input-data.png](https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png)
+![cancel.png]([https://github.com/Abhinandan-Giri/PPS-Github-Project/blob/108d4d33ac22b22c90270a1ea223cd2c8bbd715f/.images/input-data.png](https://github.com/Abhinandan-Giri/Bus-Reservation-System-PPS-Project/blob/641eaa2e1b9ac736b2a44dedf390b3f90330fedd/images/cancel.jpg))
